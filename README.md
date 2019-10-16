@@ -78,7 +78,7 @@ This project requires [Cocoapods](https://cocoapods.org//) to start.
 Install the dependencies .
 
 ```sh
-$ cd BooksDemoIOS
+$ cd Pokedex
 $ pod install
 ```
 
